@@ -1,6 +1,5 @@
 # Consolidation of my Advent Of Code solutions
 Favorite time of the year
-2020 is the only year I have actually tried hard, hopfully Ill find the time to try again
 
 
 # 2020
