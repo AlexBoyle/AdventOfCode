@@ -20,4 +20,4 @@ So runSolution can be used like
 `./runSolution {day to run}`
 
 ## My Results
-![GitHub Logo](https://github.com/AlexBoyle/AdventOfCode2020/blob/master/Results.PNG)
+![GitHub Logo](https://github.com/AlexBoyle/AdventOfCode/blob/integration/2020/Results.PNG)
